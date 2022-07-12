@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(24, 78, 60);
+    background: linear-gradient(to bottom, #68EACC 5%, #497be8 95%);
     margin: 0;
     padding: 50px 0;
     box-sizing: border-box;
@@ -13,7 +13,7 @@ body{
     margin: 50px auto;
     max-width: 290px;
     padding: 25px;
-    background-color: rgb(48, 148, 115);
+    background-color: rgb(31, 59, 68);
     border-radius: 5px;
 
 }
@@ -43,6 +43,7 @@ button {
     background-color: gray;
     margin-left: 12px;
     cursor: pointer;
+    text-align: center;
     
     
     
